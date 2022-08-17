@@ -30,8 +30,3 @@ Feito com ❤️ por [Joao Victor](https://github.com/renyzeraa)! <br>
 
 <br clear="left"/>
 
-
-## 🔗 Links //Em desenvolvimento
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-
-
